@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>pbzcyrk@frag.pbz</string>
+	<key>contactName</key>
+	<string>Tony Richards</string>
+	<key>description</key>
+	<string>This bundle enables indented soft wrap. For it to work, TextMate's soft wrap setting must be turned on already. The code was taken from here:
+
+http://lists.macromates.com/textmate/2012-August/035181.html
+
+All credit to Anthony Pulido, I simply turned this into a bundle for easier installation.</string>
+	<key>name</key>
+	<string>Indented Soft Wrap</string>
+	<key>uuid</key>
+	<string>2269E7C0-5B1F-4B6F-8499-4CF10F7F1ECF</string>
+</dict>
+</plist>
