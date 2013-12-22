@@ -5,7 +5,7 @@ This enables indented soft wrap in TextMate 2. For it to work, TextMate's soft w
 
 http://lists.macromates.com/textmate/2012-August/035181.html
 
-All credit to Anthony Pulido, I simply turned this into a bundle for easier installation.
+All credit to Allan Odgaard and Anthony Pulido, I simply turned this into a bundle for easier installation.
 
 Installation
 ------------
