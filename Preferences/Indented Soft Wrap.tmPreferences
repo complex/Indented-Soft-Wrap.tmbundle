@@ -9,7 +9,7 @@
 		<key>indentedSoftWrap</key>
 		<dict>
 			<key>format</key>
-			<string>$0\t</string>
+			<string>$0</string>
 			<key>match</key>
 			<string>\A[ \t]*</string>
 		</dict>
